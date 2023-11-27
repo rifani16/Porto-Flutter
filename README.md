@@ -1,2 +1,2 @@
 # Porto-Flutter
-Portofolio Flutter App
+Portofolio for Android app that created with Flutter
